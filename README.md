@@ -1,4 +1,4 @@
-# Football League Simulatorr
+# Football League Simulator
 
 Welcome to the Football League Simulator! This project allows you to simulate a football league with 6 teams and view various statistics based on matches, players, and teams.
 
